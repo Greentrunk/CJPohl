@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chris!</h1>
+<h1 align="center">Hi 👋, I'm CJ!</h1>
 <h3 align="center">A Fullstack Web Developer and Hardworking Human</h3>
 
 - 🔭 I’m currently working on [Eat 2 Live](https://github.com/CJPohl/live-2-eat), a Calorie/Food tracking application
