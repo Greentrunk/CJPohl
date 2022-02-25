@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Eat 2 Live](https://github.com/CJPohl/live-2-eat), a Calorie/Food tracking application
 
-- 🌱 I’m currently learning **Typescript and Computer Architecture**
+- 🌱 I’m currently learning **Computer Architecture through Nand2Tetris**
 
 - 👨‍💻 All of my projects are available at [http://www.cjpohl.com/](http://www.cjpohl.com/)
 
