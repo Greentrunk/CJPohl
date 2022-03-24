@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm CJ!</h1>
+ <h1 align="center">Hi 👋, I'm Chris!</h1>
 <h3 align="center">A Fullstack Web Developer and Hardworking Human</h3>
 
 - 🔭 I’m currently working on [Eat 2 Live](https://github.com/CJPohl/live-2-eat), a Calorie/Food tracking application
 
-- 🌱 I’m currently learning **Computer Architecture through Nand2Tetris**
+- 🌱 I’m currently learning *Functional Programming with SICP*
 
 - 👨‍💻 All of my projects are available at [http://www.cjpohl.com/](http://www.cjpohl.com/)
 
