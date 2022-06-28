@@ -1,10 +1,6 @@
  <h1 align="center">Hi 👋, I'm Chris!</h1>
 <h3 align="center">A Fullstack Web Developer and Hardworking Human</h3>
 
-- 🔭 I’m currently working on [Eat 2 Live](https://github.com/CJPohl/live-2-eat), a Calorie/Food tracking application
-
-- 🌱 I’m currently studying *SICP and Computer Architecture*
-
 - 👨‍💻 All of my projects are available at [http://www.cjpohl.com/](http://www.cjpohl.com/)
 
 - 💬 Ask me about **Music, food, wine, and the finer things in life**
